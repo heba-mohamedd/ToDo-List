@@ -1,15 +1,6 @@
 
 <html lang="en">
-<head>
-    
-    <style>
-        body{
-            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            
-        }
-        
-    </style>
-</head>
+
 <body>
     <h1>Todo List Application</h1>
     <p><h2>Overview</h2>
@@ -25,7 +16,7 @@ A simple and interactive Todo List application built with React.js. This app pro
         <li><strong>Responsive UI:</strong>A visually appealing and user-friendly design that works seamlessly on different devices.</li>
         <li><strong>Dynamic Updates:</strong>The app dynamically updates the task list without the need to refresh the page.</li>
         
-    </ul>
+    
 </div>
 
 <div>
@@ -37,7 +28,7 @@ A simple and interactive Todo List application built with React.js. This app pro
         <li><strong>Responsive UI:</strong>A visually appealing and user-friendly design that works seamlessly on different devices.</li>
         <li><strong>Dynamic Updates:</strong>The app dynamically updates the task list without the need to refresh the page.</li>
         
-    </ul>
+  
 </div>
 
 
@@ -53,7 +44,7 @@ A simple and interactive Todo List application built with React.js. This app pro
         <li><strong>Open your browser and go to :</strong><pre>---> http://localhost:3000
         </pre></li>
         
-    </ol>
+ 
 </div>
 
 <div>
