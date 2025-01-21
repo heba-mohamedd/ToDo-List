@@ -33,7 +33,7 @@ A simple and interactive Todo List application built with React.js. This app pro
 <div>
     <h2>How to Use</h2>
     <ol>
-        <li><strong>Clone this repository:</strong> <pre>---> git clone https://github.com/yourusername/todo-list.git <br> <br>---> cd todo-list
+        <li><strong>Clone this repository:</strong> <pre>---> git clone https://github.com/heba-mohamedd/ToDo-List.git <br> <br>---> cd todo-list
             </pre></li>
         <li><strong>Install dependencies :</strong> <pre>---> npm install
         </pre></li>
