@@ -1,0 +1,105 @@
+.App {
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    padding: 10px;
+    background-color: #F1ECE6;
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Segoe UI';
+}
+
+.for-input-data {
+    display: flex;
+    margin: 20px auto;
+    width: 500px;
+ 
+}
+
+.for-input-data>button {
+    width: 15%;
+    background-color: #76B7CD;
+    border: 1px solid #ccc;
+    border-radius: 0 25px 25px 0;
+}
+
+.for-input-data>input {
+
+    background-color: #F1ECE6;
+
+}
+
+
+
+.for-show-data {
+    /* border: 2px solid black; */
+
+    /* display: flex;
+    flex-direction: column; */
+    margin: 20px auto;
+    width: 500px;
+    background-color: #F1ECE6;
+    border-radius: 5px;
+
+
+}
+
+.for-show-data ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+}
+
+.for-show-data ul li {
+    width: 95%;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    border-bottom: 0.5px solid #76B7CD;
+    padding: 10px;
+    cursor: pointer;
+
+    /* border: 2px solid black; */
+}
+
+.for-show-data ul li input {
+    /* appearance: none; */
+    width: 20px;
+    height: 20px;
+    /* border: 2px solid #000; */
+    border-radius: 50%;
+    background-color: white;
+    /* cursor: pointer; */
+
+
+}
+
+.for-show-data ul li button {
+    float: right;
+    background: none;
+    padding: 5px;
+    border: 0;
+    cursor: pointer;
+
+
+
+
+}
+
+.for-show-data div {
+    /* float: right; */
+    margin-left: 70%;
+    font-size: 10px;
+    color: rgba(255, 166, 0, 0.874);
+    cursor: pointer;
+}
+
+.done {
+    text-decoration: line-through;
+    color: gray;
+}
