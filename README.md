@@ -61,9 +61,14 @@ A simple and interactive Todo List application built with React.js. This app pro
  </div>
 
 
-<div style="margin: 50px auto;">
+<pre style="margin: 50px auto;">
+
+
+
+
+    
     Feel free to use or improve this app as needed! 😊
-</div>
+</pre>
 
 
 
