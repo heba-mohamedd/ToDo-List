@@ -24,9 +24,7 @@ A simple and interactive Todo List application built with React.js. This app pro
     <ul>
         <li><strong>React.js:</strong> Core framework for building the app.</li>
         <li><strong>CSS:</strong> For styling and creating an attractive, modern UI.</li>
-        <li><strong>Delete Tasks:</strong>Remove tasks you no longer need.</li>
-        <li><strong>Responsive UI:</strong>A visually appealing and user-friendly design that works seamlessly on different devices.</li>
-        <li><strong>Dynamic Updates:</strong>The app dynamically updates the task list without the need to refresh the page.</li>
+     
         
   
 </div>
